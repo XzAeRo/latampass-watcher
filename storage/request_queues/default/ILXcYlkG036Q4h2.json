@@ -1,0 +1,9 @@
+{
+	"id": "ILXcYlkG036Q4h2",
+	"json": "{\"id\":\"ILXcYlkG036Q4h2\",\"url\":\"https://catalogo.cl.latampass.latam.com/\",\"loadedUrl\":\"https://catalogo.cl.latampass.latam.com/\",\"uniqueKey\":\"https://catalogo.cl.latampass.latam.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":2,\"errorMessages\":[\"TypeError: Cannot read properties of undefined (reading 'forEach')\\n    at PlaywrightCrawler.requestHandler [as userProvidedRequestHandler] (file:///home/vagonzal/repos/latampass-watcher/crawler/main.ts:70:28)\\n    at async wrap (/home/vagonzal/repos/latampass-watcher/node_modules/@apify/src/index.ts:77:27)\",\"TypeError: Cannot read properties of undefined (reading 'forEach')\\n    at PlaywrightCrawler.requestHandler [as userProvidedRequestHandler] (file:///home/vagonzal/repos/latampass-watcher/crawler/main.ts:70:28)\\n    at async wrap (/home/vagonzal/repos/latampass-watcher/node_modules/@apify/src/index.ts:77:27)\"],\"headers\":{},\"userData\":{}}",
+	"method": "GET",
+	"orderNo": 1662100264460,
+	"retryCount": 2,
+	"uniqueKey": "https://catalogo.cl.latampass.latam.com",
+	"url": "https://catalogo.cl.latampass.latam.com/"
+}
